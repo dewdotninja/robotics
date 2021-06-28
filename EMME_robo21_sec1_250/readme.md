@@ -23,7 +23,7 @@
   <li />Project : 30 %
 </ul>
 
-### Lecture 0 : Introduction to course
+### Lecture 0 : แนะนำวิชา
 
 
 
