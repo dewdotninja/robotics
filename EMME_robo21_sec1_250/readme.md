@@ -47,7 +47,7 @@
 
 <ul>
   <li /><a href="https://www.youtube.com/watch?v=xNY-W9vLowo">การติดตั้ง Julia และใช้งานสมุดบันทึก Pluto เบื้องต้น</a>
-  <li />หากต้องการติดตั้ง Jupyter notebook บนเครื่องคอมพิวเตอร์ที่ใช้ แนะนำวีดีโอที่ติดตั้งพร้อง tensorflow สำหรับ deep learning หลังจากนั้นเพิ่มแพ็คเกจ Python Control Library ใน environment ที่สร้างขึ้นโดยคำสั่ง pip install slycot และ pip install control
+  <li />หากต้องการติดตั้ง Jupyter notebook บนเครื่องคอมพิวเตอร์ที่ใช้ แนะนำวีดีโอที่ติดตั้งพร้อม tensorflow สำหรับ deep learning หลังจากนั้นเพิ่มแพ็คเกจ Python Control Library ใน environment ที่สร้างขึ้นโดยคำสั่ง pip install slycot และ pip install control
   <ul>
     <li /><a href="https://www.youtube.com/watch?v=RgO8BBNGB8w&t=38s">2020, Installing TensorFlow 2.0, Keras, & Python 3.7 in Windows 10 </a> by Jeff Heaton
     <li /><a href="https://www.youtube.com/watch?v=MpUvdLD932c&t=487s">2020, Installing TensorFlow 2.0, Keras, & Python 3.7 in Mac OSX</a> by Jeff Heaton
