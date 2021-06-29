@@ -1,5 +1,7 @@
 ## วิชา 01211433 Vision and Control of Industrial Robots Sec 1, 250
 
+ภาคต้น ปีการศึกษา 2564
+
 ดร.วโรดม ตู้จินดา
 <br>สาขาวิชาไฟฟ้าเครื่องกลการผลิต
 <br>ภาควิชาวิศวกรรมเครื่องกล คณะวิศวกรรมศาสตร์ ม.เกษตรศาสตร์
@@ -16,7 +18,7 @@
 
 หมายเหตุ : 
 <ul>
-  <li />ในการเรียนแต่ละครั้งอาจประกอบด้วยการสอนสดผนวกกับวีดีโอที่บันทึกล่วงหน้า
+  <li />ในการเรียนแต่ละครั้งประกอบด้วยการสอนสด และ/หรือ วีดีโอที่บันทึกล่วงหน้า
   <li />ในแต่ละสัปดาห์จะมีการบันทึกไว้เพื่อรับชมย้อนหลังได้ 
 </ul>
 
@@ -42,6 +44,14 @@
 
 
 #### วีดีโอเสริม
+
+<ul>
+  <li /><a href="https://www.youtube.com/watch?v=xNY-W9vLowo">การติดตั้ง Julia และใช้งานสมุดบันทึก Pluto เบื้องต้น
+  <li />หากต้องการติดตั้ง Jupyter notebook บนเครื่องคอมพิวเตอร์ที่ใช้ แนะนำวีดีโอที่ติดตั้งพร้อง tensorflow สำหรับ deep learning หลังจากนั้นเพิ่มแพ็คเกจ Python Control Library ใน environment ที่สร้างขึ้นโดยคำสั่ง pip install slycot และ pip install control
+  <ul>
+    <li /><a href="https://www.youtube.com/watch?v=RgO8BBNGB8w&t=38s">2020, Installing TensorFlow 2.0, Keras, & Python 3.7 in Windows 10 </a> by Jeff Heaton
+    <li /><a href="https://www.youtube.com/watch?v=MpUvdLD932c&t=487s">2020, Installing TensorFlow 2.0, Keras, & Python 3.7 in Mac OSX</a> by Jeff Heaton
+</ul>
 
 
 ### ลิงก์ที่เกี่ยวข้อง
