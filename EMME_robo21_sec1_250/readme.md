@@ -42,6 +42,8 @@
 
 #### วีดีโอ
 
+<ul>
+  <li /><a href="https://o365ku-my.sharepoint.com/:v:/g/personal/varodom_t_live_ku_th/EZYSyVDM4DxBuxAwJ5lVqNkBUSo1Ct44PY5aUOQ_BwWnPA?e=Jc1rTq">แนะนำวิชาและการติดตั้งซอฟต์แวร์</a>
 
 #### วีดีโอเสริม
 
