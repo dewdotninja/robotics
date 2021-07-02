@@ -31,7 +31,7 @@
   <li />Project : 30 %
 </ul>
 
-### Lecture 0 : แนะนำวิชา
+### Lecture 0 : แนะนำวิชาและซอฟต์แวร์
 
 #### หัวข้อ
 
@@ -43,7 +43,8 @@
 #### วีดีโอ
 
 <ul>
-  <li /><a href="https://o365ku-my.sharepoint.com/:v:/g/personal/varodom_t_live_ku_th/EZYSyVDM4DxBuxAwJ5lVqNkBUSo1Ct44PY5aUOQ_BwWnPA?e=Jc1rTq">แนะนำวิชาและการติดตั้งซอฟต์แวร์</a>
+  <li /><a href="https://o365ku-my.sharepoint.com/:v:/g/personal/varodom_t_live_ku_th/EZYSyVDM4DxBuxAwJ5lVqNkBUSo1Ct44PY5aUOQ_BwWnPA?e=Jc1rTq">Part 1 : แนะนำวิชาและการติดตั้งซอฟต์แวร์</a> อังคาร 29 มิย. 64
+  <li /><a href="https://o365ku-my.sharepoint.com/:v:/g/personal/varodom_t_live_ku_th/EVgmYBhMwBVPmsyXP24d3YcBZZd4K4W5LxRdTnMIFtbVug?e=exTGMd">Part 2: แนะนำการเขียนโปรแกรม Python และ Julia บน Jupyter notebook และ Pluto notebook</a> ศุกร์ 2 กค. 64
 
 #### วีดีโอเสริม
 
