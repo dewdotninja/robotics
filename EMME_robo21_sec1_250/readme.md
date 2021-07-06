@@ -59,6 +59,16 @@
   </ul>
 </ul>
 
+### Lecture 1 : การกำเนิดแนววิถี
+
+#### สไลด์
+<ul>
+  <li /><a href="https://drive.google.com/file/d/1-MsfY1JF7d56F3E92_kGjyWKGSz8wd0I/view?usp=sharing">Robot trajectory generation</a>
+</ul>
+
+#### วีดีโอ
+<ul>
+  <li /><a href="https://o365ku-my.sharepoint.com/:v:/g/personal/varodom_t_live_ku_th/Ef-ZaWeGfvhDkkWFalv-I0ABCyDGGtHAlwZqooYz9NmQRw?e=99cWGF">Part I : อังคาร 6 กค. 2564
 
 ### ลิงก์ที่เกี่ยวข้อง
 <ul>
