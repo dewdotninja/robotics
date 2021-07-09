@@ -68,7 +68,8 @@
 
 #### วีดีโอ
 <ul>
-  <li /><a href="https://o365ku-my.sharepoint.com/:v:/g/personal/varodom_t_live_ku_th/Ef-ZaWeGfvhDkkWFalv-I0ABCyDGGtHAlwZqooYz9NmQRw?e=99cWGF">Part I : อังคาร 6 กค. 2564
+  <li /><a href="https://o365ku-my.sharepoint.com/:v:/g/personal/varodom_t_live_ku_th/Ef-ZaWeGfvhDkkWFalv-I0ABCyDGGtHAlwZqooYz9NmQRw?e=99cWGF">Part I :</a> อังคาร 6 กค. 2564
+  <li /><a href="https://o365ku-my.sharepoint.com/:v:/g/personal/varodom_t_live_ku_th/EW5hHdiBFCdMgp9IZ0JC3-sB1Fvvy3UPNO_mKxYpzqr51g?e=XFrhWa">Part II : </a>ศุกร์ 9 กค. 2564
 </ul>
   
   
