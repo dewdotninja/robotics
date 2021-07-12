@@ -77,7 +77,7 @@
   <li /><a href="https://o365ku-my.sharepoint.com/:v:/g/personal/varodom_t_live_ku_th/EUZuHLf5R1FNvYp9ZKFg8M4BPr0b1_a353Gznh8Dpc8zYg?e=y3mutj">แนวทางการทำ homework 1 โดยภาษาจูเลียบน Pluto notebook</a>
 </ul>
 
-### Lecture 2 : การควบคุมข้อต่ออิสระ (Part I)
+### Lecture 2 : พลวัตข้อต่ออิสระและพื้นฐานการควบคุมป้อนกลับ
 
 #### สไลด์
 <ul>
