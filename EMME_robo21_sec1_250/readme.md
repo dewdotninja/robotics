@@ -76,8 +76,19 @@
 <ul>
   <li /><a href="https://o365ku-my.sharepoint.com/:v:/g/personal/varodom_t_live_ku_th/EUZuHLf5R1FNvYp9ZKFg8M4BPr0b1_a353Gznh8Dpc8zYg?e=y3mutj">แนวทางการทำ homework 1 โดยภาษาจูเลียบน Pluto notebook</a>
 </ul>
-  
-  
+
+### Lecture 2 : การควบคุมข้อต่ออิสระ (Part I)
+
+#### สไลด์
+<ul>
+  <li /><a href="https://drive.google.com/file/d/1l8Pn2swS02-js1D9dj9hOKjNUtSoSXbL/view?usp=sharing">พลวัตข้อต่ออิสระและพื้นฐานการควบคุมป้อนกลับ </a>
+</ul>
+
+#### วีดีโอเสริม
+<ul>
+  <li /><a href="https://o365ku-my.sharepoint.com/:f:/g/personal/varodom_t_live_ku_th/El13KwdRAzhJnKSmFSc5rnABvgou7GiwKWlx1ultpHsVLg?e=TP3wSo">การติดตั้งแพ็คเกจ ControlSystems.jl บน Julia</a>
+</ul>
+
 ### ลิงก์ที่เกี่ยวข้อง
 <ul>
   <li /><a href="https://www.chulabook.com/th/product-details/25543-%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%A7%E0%B8%B4%E0%B9%80%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%B0%E0%B8%AB%E0%B9%8C%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%84%E0%B8%A7%E0%B8%9A%E0%B8%84%E0%B8%B8%E0%B8%A1%E0%B8%AB%E0%B8%B8%E0%B9%88%E0%B8%99%E0%B8%A2%E0%B8%99%E0%B8%95%E0%B9%8C%E0%B8%AD%E0%B8%B8%E0%B8%95%E0%B8%AA%E0%B8%B2%E0%B8%AB%E0%B8%81%E0%B8%A3%E0%B8%A3%E0%B8%A1">หนังสือ "การวิเคราะห์และควบคุมหุ่นยนต์อุตสาหกรรม"</a>
