@@ -90,6 +90,7 @@
   <li /><a href="https://o365ku-my.sharepoint.com/:v:/g/personal/varodom_t_live_ku_th/Edf72la_cqhHvfmjbM0aHwQB_2D2rL1OduFiSksW3ttiJw?e=aibcaE">Part I : </a>อังคาร 13 กค. 64</a>
   <li />Part II : ศุกร์ 16 กค. 64
 </ul>  
+
 #### วีดีโอเสริม
 <ul>
   <li /><a href="https://o365ku-my.sharepoint.com/:f:/g/personal/varodom_t_live_ku_th/El13KwdRAzhJnKSmFSc5rnABvgou7GiwKWlx1ultpHsVLg?e=TP3wSo">การติดตั้งแพ็คเกจ ControlSystems.jl บน Julia</a>
