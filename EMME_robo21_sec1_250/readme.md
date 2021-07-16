@@ -87,13 +87,14 @@
 
 #### วีดีโอ
 <ul>
-  <li /><a href="https://o365ku-my.sharepoint.com/:v:/g/personal/varodom_t_live_ku_th/Edf72la_cqhHvfmjbM0aHwQB_2D2rL1OduFiSksW3ttiJw?e=aibcaE">Part I : </a>อังคาร 13 กค. 64</a>
-  <li />Part II : ศุกร์ 16 กค. 64
+  <li /><a href="https://o365ku-my.sharepoint.com/:v:/g/personal/varodom_t_live_ku_th/Edf72la_cqhHvfmjbM0aHwQB_2D2rL1OduFiSksW3ttiJw?e=aibcaE">Part I : </a>อังคาร 13 กค. 64
+  <li /><a href="https://o365ku-my.sharepoint.com/:v:/g/personal/varodom_t_live_ku_th/EYMRd0axtfxPlLvDSn9w-a8BPgL7Qb33SbnR2Lr18BJGbQ?e=BBGMxO">Part II :</a> ศุกร์ 16 กค. 64
 </ul>  
 
 #### วีดีโอเสริม
 <ul>
   <li /><a href="https://o365ku-my.sharepoint.com/:f:/g/personal/varodom_t_live_ku_th/El13KwdRAzhJnKSmFSc5rnABvgou7GiwKWlx1ultpHsVLg?e=TP3wSo">การติดตั้งแพ็คเกจ ControlSystems.jl บน Julia</a>
+  <li /><a href="https://o365ku-my.sharepoint.com/:v:/g/personal/varodom_t_live_ku_th/EZ04_93-ZyZGtLVBdlC5nvwB_dPALdAa4JUmTRapRkYf7w?e=ukF7uw">แนวทางการทำ homework 2 โดยภาษาจูเลียบน Pluto notebook</a>
 </ul>
 
 ### ลิงก์ที่เกี่ยวข้อง
