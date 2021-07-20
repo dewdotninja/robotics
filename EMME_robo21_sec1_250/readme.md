@@ -105,11 +105,14 @@
 </ul>
 
 #### วีดีโอ
-<ul>
-  <li />Part I : อังคาร 20 กค. 64
-  <li />Part II : ศุกร์ 23 กค. 64
-</ul>
 
+เนื่องจากข้อผิดพลาดในการบันทึกในวันอังคาร 20 กค. 64 lecture 3 จะมีวีดีโอเฉพาะวันศุกร์ 23 กค. 64 ซึ่งจะครอบคลุมเนื้อหาหลักในส่วนของวันอังคาร ยกเว้นในส่วนการรัน Jupyter notebook ceb_m3.ipynb ซึ่งดูได้จากวีดีโอเสริมด้านล่างนี้
+
+#### วีดีโอเสริม
+<ul>
+  <li /><a href="https://youtu.be/24eO3mYsSaA">Module 3 : Classical loopshaping (Python)</a>
+  <li /><a href="https://youtu.be/tbr4tkeHbaY">Control Engineering Basics : Module 3 การออกแบบตัวควบคุมโดยวิธี Loopshaping (Julia version)</a>
+</ul>
 
 <hr>
 
