@@ -119,7 +119,7 @@
   <li /><a href="https://www.scilab.org/">Scilab website</a>
   <li /><a href="https://scilabdotninja.wordpress.com/rtsx/download-rtsx/">RTSX download</a>
   <li /><a href="https://julialang.org/">Julia website</a>
-  <li />หน้า github ของผู้สอน 
+  <li /><a href="https://dewdotninja.github.io/">หน้า github ของผู้สอน</a>
   <ul>
     <li /><a href="https://github.com/dewdotninja/control_python">control_python</a>
     <li /><a href="https://dewdotninja.github.io/books_th/julia4eng/julia.html">หนังสือ "การโปรแกรมจูเลียสำหรับวิศวกร" (ระหว่างจัดทำ) </a>
