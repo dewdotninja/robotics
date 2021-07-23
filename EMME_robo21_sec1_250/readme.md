@@ -125,6 +125,7 @@
   <li /><a href="https://dewdotninja.github.io/">หน้า github ของผู้สอน</a>
   <ul>
     <li /><a href="https://github.com/dewdotninja/control_python">control_python</a>
+    <li /><a href="https://dewdotninja.github.io/julia/control/julia_control.html">Control Engineering with Julia</a>
     <li /><a href="https://dewdotninja.github.io/books_th/julia4eng/julia.html">หนังสือ "การโปรแกรมจูเลียสำหรับวิศวกร" (ระหว่างจัดทำ) </a>
   </ul>
 </ul>
