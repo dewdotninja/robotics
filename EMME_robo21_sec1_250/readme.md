@@ -106,6 +106,9 @@
 
 #### วีดีโอ
 
+<ul>
+  <li /><a href="https://o365ku-my.sharepoint.com/:v:/g/personal/varodom_t_live_ku_th/ETwJQLkqsllMkIm22q_8dMsBce3CkIYRYUVPjLLqoDoGYg?e=dFT6DJ">Lecture 3</a> : ศุกร์ 23 กค. 64
+</ul>
 เนื่องจากข้อผิดพลาดในการบันทึกในวันอังคาร 20 กค. 64 lecture 3 จะมีวีดีโอเฉพาะวันศุกร์ 23 กค. 64 ซึ่งจะครอบคลุมเนื้อหาหลักในส่วนของวันอังคาร ยกเว้นในส่วนการรัน Jupyter notebook ceb_m3.ipynb ซึ่งดูได้จากวีดีโอเสริมด้านล่างนี้
 
 #### วีดีโอเสริม
