@@ -117,6 +117,20 @@
   <li /><a href="https://youtu.be/tbr4tkeHbaY">Control Engineering Basics : Module 3 การออกแบบตัวควบคุมโดยวิธี Loopshaping (Julia version)</a>
 </ul>
 
+### Lecture 4 : ตัวควบคุม PID
+
+#### สไลด์
+<ul>
+  <li /><a href="https://drive.google.com/file/d/12KMlU_JJZoVEMTEhWcA0tTZ5KqRmehMh/view?usp=sharing">ตัวควบคุม PID</a>
+</ul>
+
+#### วีดีโอ
+
+<ul>
+  <li />Part I : อังคาร 27 กค. 64
+  <li />Part II : ศุกร์ 30 กค. 64
+</ul>
+
 <hr>
 
 ### ลิงก์ที่เกี่ยวข้อง
