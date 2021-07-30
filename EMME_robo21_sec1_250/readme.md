@@ -128,7 +128,7 @@
 
 <ul>
   <li /><a href="https://o365ku-my.sharepoint.com/:v:/g/personal/varodom_t_live_ku_th/ETXLO8t1XQ9LhnsNKGcUjIUBZ9tzWZXEp-6daBHDlIpyOw?e=8ZaXt9">Part I :</a> อังคาร 27 กค. 64
-  <li />Part II : ศุกร์ 30 กค. 64
+  <li /><a href="https://o365ku-my.sharepoint.com/:v:/g/personal/varodom_t_live_ku_th/EdHoMQ6hSnFOvCF5G4KPXNgBayeDX5Vsa_WSJor9eUiRZQ?e=S39QT0">Part II :</a> ศุกร์ 30 กค. 64
 </ul>
 
 <hr>
