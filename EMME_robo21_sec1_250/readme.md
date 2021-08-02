@@ -131,6 +131,22 @@
   <li /><a href="https://o365ku-my.sharepoint.com/:v:/g/personal/varodom_t_live_ku_th/EdHoMQ6hSnFOvCF5G4KPXNgBayeDX5Vsa_WSJor9eUiRZQ?e=S39QT0">Part II :</a> ศุกร์ 30 กค. 64
 </ul>
 
+### Lecture 5 : ตัวควบคุมป้อนกลับสถานะและตัวควบคุมป้อนข้างหน้า
+
+#### สไลด์
+<ul>
+  <li /><a href="### Lecture 4 : ตัวควบคุม PID
+
+#### สไลด์
+<ul>
+  <li /><a href="https://drive.google.com/file/d/1IuvyYj0m4r9RrW6IrsRb3jH6wk185cdd/view?usp=sharing">State Feedback and PID Feedforward Control</a>
+</ul>
+
+#### วีดีโอ
+<ul>
+    <li />Part I : อังคาร 3 สค. 64
+    <li />Part II : ศุกร์ 6 สค. 64
+</ul>
 <hr>
 
 ### ลิงก์ที่เกี่ยวข้อง
