@@ -135,10 +135,6 @@
 
 #### สไลด์
 <ul>
-  <li /><a href="### Lecture 4 : ตัวควบคุม PID
-
-#### สไลด์
-<ul>
   <li /><a href="https://drive.google.com/file/d/1IuvyYj0m4r9RrW6IrsRb3jH6wk185cdd/view?usp=sharing">State Feedback and PID Feedforward Control</a>
 </ul>
 
