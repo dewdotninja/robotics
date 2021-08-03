@@ -11,7 +11,7 @@ Dr.Varodom Toochinda
 #### Class time (online)
 
 Thursday : 1 - 4 PM 
-<br>Use Cisco link provided in Google classroom
+<br>Use Cisco Webex link provided in Google classroom
 
 ##### Remarks :
 <ul>
