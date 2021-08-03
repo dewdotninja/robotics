@@ -140,7 +140,7 @@
 
 #### วีดีโอ
 <ul>
-    <li />Part I : อังคาร 3 สค. 64
+  <li /><a href="https://o365ku-my.sharepoint.com/:v:/g/personal/varodom_t_live_ku_th/EUnEqNXcZU9Hj92xEn1KNBYBh5-xTdC5ESgCfyzVlX5yCQ?e=wvIVDz">Part I :</a> อังคาร 3 สค. 64
     <li />Part II : ศุกร์ 6 สค. 64
 </ul>
 <hr>
