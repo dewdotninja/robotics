@@ -26,3 +26,20 @@ Thursday : 1 - 4 PM
   <li />Final: 30%
   <li />Project: 30%
  </ul>
+
+<hr>
+
+#### Lecture 0 : Course introduction and software installation
+
+##### Topics
+<ul>
+  <li />Course syllabus
+  <li />Software installation and basic usage
+</ul>
+
+##### Videos
+
+<hr>
+
+### Useful links
+
