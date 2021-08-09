@@ -147,6 +147,12 @@
 #### สอบกลางภาค
 สอบแบบออนไลน์ วันเสาร์ที่ 21 สค. 2564 : 4 - 7 PM 
 
+##### ตัวอย่างข้อสอบ
+<ul>
+  <li /><a href="https://github.com/dewdotninja/exams/blob/main/midterm01211433_21_ex.ipynb">Jupyter notebook (Python)</a>
+  <li /><a href="https://dewdotninja.github.io/ku/courses/exams/midterm01211433_21_ex.html">Pluto notebook (Julia)</a>
+</ul>
+
 <hr>
 
 ### ลิงก์ที่เกี่ยวข้อง
