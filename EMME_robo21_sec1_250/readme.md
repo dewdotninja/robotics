@@ -153,6 +153,13 @@
   <li /><a href="https://dewdotninja.github.io/ku/courses/exams/midterm01211433_21_ex.html">Pluto notebook (Julia)</a>
 </ul>
 
+#### วีดีโอ
+<ul>
+  <li /><a href="https://o365ku-my.sharepoint.com/:v:/g/personal/varodom_t_live_ku_th/EenPmu_a7QpDk1sF9YgdbxMBdxkutUQtiipZA92CTTbATw?e=5oCrSu">อธิบายการทำข้อสอบบน Jupyter notebook</a>
+  <li />อธิบายการทำข้อสอบบน Pluto notebook
+ </ul>
+
+
 <hr>
 
 ### ลิงก์ที่เกี่ยวข้อง
