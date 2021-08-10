@@ -42,4 +42,13 @@ Thursday : 1 - 4 PM
 <hr>
 
 ### Useful links
-
+<ul>
+  <li /><a href="https://www.scilab.org/">Scilab website</a>
+  <li /><a href="https://scilabdotninja.wordpress.com/rtsx/download-rtsx/">RTSX download</a>
+  <li /><a href="https://julialang.org/">Julia website</a>
+  <li /><a href="https://dewdotninja.github.io/">My main github page</a>
+  <ul>
+    <li /><a href="https://github.com/dewdotninja/control_python">control_python</a>
+    <li /><a href="https://dewdotninja.github.io/julia/control/julia_control.html">Control Engineering with Julia</a>
+  </ul>
+</ul>
