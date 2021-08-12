@@ -38,8 +38,24 @@ Thursday : 1 - 4 PM
 </ul>
 
 ##### Videos
+<ul>
+  <li />Lecture 0 : Thu Aug 12, 2021
+</ul>
+
+##### Supplement
+
+Videos from youtube
+
+<ul>
+  <li /><a href="https://www.youtube.com/watch?v=MvETWFJAoD4">How to install Scilab | Scilab Installation and Overview</a> For Engineering Reference
+  <li /><a href="https://www.youtube.com/watch?v=OOjKEgbt8AI&t=186s">How to install Julia and Pluto  | Week 1 | 18.S191 MIT Fall 2020</a>
+  <li /><a href="https://www.youtube.com/watch?v=RgO8BBNGB8w&t=38s">2020, Installing TensorFlow 2.0, Keras, & Python 3.7 in Windows 10</a> by Jeff Heaton
+  <li /><a href="https://www.youtube.com/watch?v=MpUvdLD932c&t=487s">2020, Installing TensorFlow 2.0, Keras, & Python 3.7 in Mac OSX</a> by Jeff Heaton
+</ul>
 
 <hr>
+
+
 
 ### Useful links
 <ul>
