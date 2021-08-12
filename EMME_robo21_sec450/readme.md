@@ -67,4 +67,5 @@ Videos from youtube
     <li /><a href="https://github.com/dewdotninja/control_python">control_python</a>
     <li /><a href="https://dewdotninja.github.io/julia/control/julia_control.html">Control Engineering with Julia</a>
   </ul>
+  <li /><a href="https://github.com/dewdotninja/robotics/tree/main/EMME_robo21_sec1_250">Thai version of this course</a>
 </ul>
