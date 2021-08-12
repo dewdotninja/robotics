@@ -39,7 +39,7 @@ Thursday : 1 - 4 PM
 
 ##### Videos
 <ul>
-  <li />Lecture 0 : Thu Aug 12, 2021
+  <li /><a href="https://o365ku-my.sharepoint.com/:v:/g/personal/varodom_t_live_ku_th/EfG50Edp7lBEv-YHV0ZCgacBhaVnS-cJTbCDlrPZRJzQXw?e=4T7Xo5">Lecture 0 </a>: Thu Aug 12, 2021
 </ul>
 
 ##### Supplement
