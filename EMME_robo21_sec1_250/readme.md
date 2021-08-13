@@ -156,7 +156,7 @@
 #### วีดีโอ
 <ul>
   <li /><a href="https://o365ku-my.sharepoint.com/:v:/g/personal/varodom_t_live_ku_th/EenPmu_a7QpDk1sF9YgdbxMBdxkutUQtiipZA92CTTbATw?e=5oCrSu">อธิบายการทำข้อสอบบน Jupyter notebook</a>
-  <li />อธิบายการทำข้อสอบบน Pluto notebook
+  <li /><a href="https://o365ku-my.sharepoint.com/:v:/g/personal/varodom_t_live_ku_th/ERmor7WF82pLiGzhijr6yfcBlVjla6Z3_p41a35SNZLhbg?e=wuo4je">อธิบายการทำข้อสอบบน Pluto notebook</a>
  </ul>
 
 
