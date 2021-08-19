@@ -61,6 +61,15 @@ Videos from youtube
 </ul>
 
 ##### Videos
+<ul>
+  <li /><a href="https://o365ku-my.sharepoint.com/:v:/g/personal/varodom_t_live_ku_th/EaefpMkCnq5CtyFzzm-I5Z4B6Wsv6y-KvHzOPBBN34n8SQ?e=w532fm">Part I </li>
+  <li /><a href="https://o365ku-my.sharepoint.com/:v:/g/personal/varodom_t_live_ku_th/EUqh2bxV4HRCjPCTqvIZDQcBwFUBkl82K5iv8zu8sGE5LQ?e=vhRdpF">Part II </li>
+</li>
+
+#### Supplement
+<ul>
+  <li /><a href="https://o365ku-my.sharepoint.com/:v:/g/personal/varodom_t_live_ku_th/EV8oFH-MDl1Osg8wqhvCE0UBQW3erDslCsoV9U8Ae31pwg?e=Yr3Aku">Homework #1 explanation video</a>
+</ul>
 
 <hr>
 
