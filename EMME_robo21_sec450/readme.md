@@ -53,6 +53,15 @@ Videos from youtube
   <li /><a href="https://www.youtube.com/watch?v=MpUvdLD932c&t=487s">2020, Installing TensorFlow 2.0, Keras, & Python 3.7 in Mac OSX</a> by Jeff Heaton
 </ul>
 
+#### Lecture 1 : Robot Trajectory Generation 
+
+##### Slides
+<ul>
+  <li /><a href="https://drive.google.com/file/d/1PHXouKQ4i2M7qnoHCz8Ok83wu7mLBON0/view?usp=sharing">Robot trajectory generation</a>
+</ul>
+
+##### Videos
+
 <hr>
 
 
