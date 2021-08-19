@@ -65,6 +65,7 @@ Videos from youtube
   <li /><a href="https://o365ku-my.sharepoint.com/:v:/g/personal/varodom_t_live_ku_th/EaefpMkCnq5CtyFzzm-I5Z4B6Wsv6y-KvHzOPBBN34n8SQ?e=w532fm">Part I </li>
   <li /><a href="https://o365ku-my.sharepoint.com/:v:/g/personal/varodom_t_live_ku_th/EUqh2bxV4HRCjPCTqvIZDQcBwFUBkl82K5iv8zu8sGE5LQ?e=vhRdpF">Part II </li>
 </li>
+</ul>
 
 #### Supplement
 <ul>
