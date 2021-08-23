@@ -159,6 +159,29 @@
   <li /><a href="https://o365ku-my.sharepoint.com/:v:/g/personal/varodom_t_live_ku_th/ERmor7WF82pLiGzhijr6yfcBlVjla6Z3_p41a35SNZLhbg?e=wuo4je">อธิบายการทำข้อสอบบน Pluto notebook</a>
  </ul>
 
+##### ข้อสอบจริง
+<ul>
+  <li /><a href="https://github.com/dewdotninja/exams/blob/main/midterm01211433_21.ipynb">Jupyter notebook</a>
+  <li /><a href="https://dewdotninja.github.io/ku/courses/exams/midterm01211433_21.html">Pluto notebook</a>
+</ul>
+
+### Lecture 7 : Controller Implementation
+#### สไลด์
+<ul>
+  <li /><a href="https://drive.google.com/file/d/1SOJrLiOcJ6iHX1TyUPKDeemYcNAvBv06/view?usp=sharing">Controller Implementation</a>
+</ul>
+
+#### วีดีโอ
+
+
+#### วีดีโอเสริม
+<ul>
+  <li /><a href="https://drive.google.com/file/d/14QzLiJLTme4fHvJRoTroIJMKoMe9qQqU/view">PID implementation</a>
+  <li /><a href="https://drive.google.com/file/d/1bMkkXa8GpnfId8M7oZk2d2AazO6WtIi-/view">Robot joint simulation</a>
+  <li /><a href="https://drive.google.com/file/d/1_bYjRwEK839pMIej1aJcV5DTH1RdMo5V/view">กรณีศึกษาการสร้างหุ่นยนต์ 2 ก้านต่อ</a>
+  <li /><a href="https://drive.google.com/file/d/1z4h7EP-Pp2tXfrCy1DGdIzZKZs4k_7BW/view">การแปลงตัวควบคุมเป็นดีสครีต (part 1) </a>
+  <li /><a href="https://drive.google.com/file/d/17Zb4u_qb0EHE4Gezh9-VvqAU7V_COQb3/view">การแปลงตัวควบคุมเป็นดีสครีต (part 2) </a>
+</ul>
 
 <hr>
 
