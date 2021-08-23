@@ -144,6 +144,8 @@
   <li /><a href="https://o365ku-my.sharepoint.com/:v:/g/personal/varodom_t_live_ku_th/EXnVaIKm5-lMgWxfGCua9dEBzYfTlctv0ieaaELIyV_vcA?e=2aDyVM">Part II :</a> ศุกร์ 6 สค. 64
 </ul>
 
+### Lecture 6 : สรุปเนื้อหาและการเตรียมตัวสำหรับสอบกลางภาคแบบออนไลน์
+
 #### สอบกลางภาค
 สอบแบบออนไลน์ วันเสาร์ที่ 21 สค. 2564 : 4 - 7 PM 
 
