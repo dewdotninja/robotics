@@ -174,6 +174,10 @@
 </ul>
 
 #### วีดีโอ
+<ul>
+  <li /><a href="https://o365ku-my.sharepoint.com/:v:/g/personal/varodom_t_live_ku_th/EaaZcQn6lZJLq-gVi2Whxi8BtPA64H571VlO585O1PFK5A?e=th9yZf">Part I :</a> อังคาร 24 สค. 64
+  <li />Part II : ศุกร์ 27 สค. 64
+</ul>
 
 
 #### วีดีโอเสริม
