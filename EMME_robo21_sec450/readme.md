@@ -80,6 +80,11 @@ Videos from youtube
 </ul>
 
 ##### Videos
+<ul>
+  <li /><a href="https://o365ku-my.sharepoint.com/:v:/g/personal/varodom_t_live_ku_th/EdXy9IAmoB5Ah5rYjdwVHnwBwdwmF5GCxXe4hj5WggVXeQ?e=EAHAcj">Part I </a>
+  <li /><a href="https://o365ku-my.sharepoint.com/:v:/g/personal/varodom_t_live_ku_th/EW7llmcL1jhGooPE6Ba6yVsBIm9D9m56MK6P3TRL3aFg3A?e=RppgYq">Part II</a>
+</ul>
+
 
 <hr>
 
