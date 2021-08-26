@@ -72,6 +72,15 @@ Videos from youtube
   <li /><a href="https://o365ku-my.sharepoint.com/:v:/g/personal/varodom_t_live_ku_th/EV8oFH-MDl1Osg8wqhvCE0UBQW3erDslCsoV9U8Ae31pwg?e=Yr3Aku">Homework #1 explanation video</a>
 </ul>
 
+#### Lecture 2 :  Feedback Control Basics 
+
+##### Slides
+<ul>
+  <li /><a href="https://drive.google.com/file/d/1c5Fx9J-NrBWiMvXwW7vgMo1GOhLAVKCG/view?usp=sharing">Feedback Control Basics</a>
+</ul>
+
+##### Videos
+
 <hr>
 
 
