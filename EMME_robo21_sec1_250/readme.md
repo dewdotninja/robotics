@@ -196,6 +196,26 @@
   <li /><a href="https://drive.google.com/file/d/17Zb4u_qb0EHE4Gezh9-VvqAU7V_COQb3/view">การแปลงตัวควบคุมเป็นดีสครีต (part 2) </a>
 </ul>
 
+### Lecture 8 : System Identification of Robot-joint Model
+
+#### สไลด์
+<ul>
+  <li />System Identification of Robot-joint Model
+</ul>
+
+#### วีดีโอ
+
+
+#### Notebooks
+
+<ul>
+  <li /><a href="https://dewdotninja.github.io/books_th/julia4eng/chapter6.html">บทที่ 6 : วิธีกำลังสองน้อยสุด</a> จากหนังสือ "การโปรแกรมจูเลียสำหรับวิศวกร"
+  
+</ul>
+
+
+
+
 <hr>
 
 ### ลิงก์ที่เกี่ยวข้อง
