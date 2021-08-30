@@ -171,7 +171,7 @@
 
 <ul>
   <li /><a href="https://github.com/dewdotninja/exams/blob/main/midterm01211433_21_solution.ipynb">Jupyter notebook</a>
-  <li /><a href="https://dewdotninja.github.io/ku/courses/exams/midterm01211433_21_solution.html">Pluto notebook</a><a href="https://o365ku-my.sharepoint.com/:v:/g/personal/varodom_t_live_ku_th/EaCFPvnSv6FLg4cqFr6pwWIBjjnqxpX-SUx4xmI6u3dbeg?e=b07M0n"> วีดีโออธิบายเฉลยเวอร์ชัน Pluto </a>
+  <li /><a href="https://dewdotninja.github.io/ku/courses/exams/midterm01211433_21_solution.html">Pluto notebook</a> : <a href="https://youtu.be/J3afAQEsguY"> วีดีโออธิบายเฉลยเวอร์ชัน Pluto </a>
 </ul>
 
 ### Lecture 7 : Controller Implementation
