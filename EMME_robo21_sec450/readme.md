@@ -85,6 +85,14 @@ Videos from youtube
   <li /><a href="https://o365ku-my.sharepoint.com/:v:/g/personal/varodom_t_live_ku_th/EW7llmcL1jhGooPE6Ba6yVsBIm9D9m56MK6P3TRL3aFg3A?e=RppgYq">Part II</a>
 </ul>
 
+#### Lecture 3 : Loopshaping Design
+
+##### Slides
+<ul>
+  <li /><a href="https://drive.google.com/file/d/1e528kK3SYOTj9maSbo3AQYhDJ0GnAvd0/view?usp=sharing">Classical Control Design</a>
+</ul>
+
+##### Videos
 
 <hr>
 
