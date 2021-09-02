@@ -93,7 +93,10 @@ Videos from youtube
 </ul>
 
 ##### Videos
-
+<ul>
+  <li /><a href="https://o365ku-my.sharepoint.com/:v:/g/personal/varodom_t_live_ku_th/ERHdfSjZ1bxAqISpVqHalEoBvE-AQp_B4zDi35i1tRVbIw?e=pUM7VE">Classical Control Design</a>
+  <li /><a href="https://www.youtube.com/watch?v=tWOGuW_5q8M&t=825s">Watch this video til 13:40</a> for some demo of loopshaping design using Julia (module 3)
+</ul>
 <hr>
 
 
