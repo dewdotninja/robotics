@@ -204,7 +204,9 @@
 </ul>
 
 #### วีดีโอ
-
+<ul>
+  <li /><a href="https://o365ku-my.sharepoint.com/:v:/g/personal/varodom_t_live_ku_th/ES6tYXdOB8NCg-R7TNnzH6UBLsoR4o1WQQXHRjsQ9k7ftA?e=xFqdca">LS System Identification of robot-joint model</a>ศุกร์ 3 กย. 64
+</ul>
 
 #### Notebooks
 
