@@ -223,6 +223,11 @@
   <li /><a href="https://drive.google.com/file/d/1fpDUQAp8HflV3S4Ir18P2wTrztO3Hz0P/view?usp=sharing">Robot Dynamics</a>
 </ul>
 
+#### วีดีโอ
+<ul>
+  <li /><a href="https://o365ku-my.sharepoint.com/:v:/g/personal/varodom_t_live_ku_th/EatoLT2D_2pPmUwRIGBdhK8BkRdV3Awgpx-bgKqTqA0KUA?e=G2TPa2">Robot Dynamics</a>
+</ul>
+
 
 <hr>
 
