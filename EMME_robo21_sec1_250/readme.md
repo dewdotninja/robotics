@@ -228,7 +228,13 @@
   <li /><a href="https://o365ku-my.sharepoint.com/:v:/g/personal/varodom_t_live_ku_th/EatoLT2D_2pPmUwRIGBdhK8BkRdV3Awgpx-bgKqTqA0KUA?e=G2TPa2">Robot Dynamics</a>
 </ul>
 
+### Lecture 10 : Robot nonlinear control 
 
+#### สไลด์
+<ul>
+  <li /><a href="https://drive.google.com/file/d/15YcW7h0Jik7SRVPW7wlSFQVJaA9Ft9yP/view?usp=sharing">Robot conlinear control</a>
+</ul>  
+  
 <hr>
 
 ### ลิงก์ที่เกี่ยวข้อง
