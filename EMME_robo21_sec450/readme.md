@@ -109,6 +109,23 @@ Videos from youtube
 <ul>
   <li /><a href="https://o365ku-my.sharepoint.com/:v:/g/personal/varodom_t_live_ku_th/ETUauv1KVHBNhM2cyfQUnOoBZqbzFjQyg0U4RzwZtnXMPg?e=WtIzNp">Thu Sep 09, 21</a>
 </ul>
+
+#### Lecture 5 : State Feedback and PID Feedforward Control
+
+##### Slides
+
+<ul>
+  <li /><a href="https://drive.google.com/file/d/1IuvyYj0m4r9RrW6IrsRb3jH6wk185cdd/view?usp=sharing">State Feedback and PID Feedforward Control</a>
+</ul>
+
+##### Videos
+<ul>
+  <li />Thu Sep 16, 21
+</ul>
+
+
+
+
 <hr>
 
 
