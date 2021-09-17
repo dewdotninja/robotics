@@ -238,6 +238,7 @@
 #### วีดีโอ
 <ul>
   <li /><a href="https://o365ku-my.sharepoint.com/:v:/g/personal/varodom_t_live_ku_th/EYnsqbAKmlJCmQhmj2lvNnoBJhsimCDeToD1x6s5dujhuw?e=ekM91v">Part 1 : Lyapunov stability</a> อังคาร 14 กย. 64
+  <li /><a href="https://o365ku-my.sharepoint.com/:v:/g/personal/varodom_t_live_ku_th/EXbpdoxSuz5DlZl1rEhcm3gBxYhC23Hhp7prB0nra2CgSw?e=QEFauu">Part 2 : </a> ศุกร์ 17 กย. 64
 </ul>
 
 <hr>
