@@ -211,7 +211,7 @@
 #### Notebooks
 
 <ul>
-  <li /><a href="https://dewdotninja.github.io/books_th/julia4eng/chapter6.html">บทที่ 6 : วิธีกำลังสองน้อยสุด</a> จากหนังสือ "การโปรแกรมจูเลียสำหรับวิศวกร"
+  
   <li /><a href="https://dewdotninja.github.io/julia/control/lsid.html">Least Square System Identification</a>
   
 </ul>
