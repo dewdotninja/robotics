@@ -241,6 +241,15 @@
   <li /><a href="https://o365ku-my.sharepoint.com/:v:/g/personal/varodom_t_live_ku_th/EXbpdoxSuz5DlZl1rEhcm3gBxYhC23Hhp7prB0nra2CgSw?e=QEFauu">Part 2 : </a> ศุกร์ 17 กย. 64
 </ul>
 
+### Lecture 11 : Vision-based control 
+
+#### สไลด์
+<ul>
+  <li /><a href="https://drive.google.com/file/d/1ogQURewfL0HUpSgcPt81fKjLINxhaxp7/view?usp=sharing">Vision-based control
+</ul>
+
+#### วีดีโอ
+
 <hr>
 
 ### ลิงก์ที่เกี่ยวข้อง
