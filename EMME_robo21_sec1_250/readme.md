@@ -245,11 +245,17 @@
 
 #### สไลด์
 <ul>
-  <li /><a href="https://drive.google.com/file/d/1ogQURewfL0HUpSgcPt81fKjLINxhaxp7/view?usp=sharing">Vision-based control
+  <li /><a href="https://drive.google.com/file/d/1ogQURewfL0HUpSgcPt81fKjLINxhaxp7/view?usp=sharing">Vision-based control</a>
 </ul>
 
 #### วีดีโอ
-
+<ul>
+  <li /><a href="https://o365ku-my.sharepoint.com/:v:/g/personal/varodom_t_live_ku_th/EZe-T4bm691GvxIHi35DoSsBbk2qfj6OTYDQRhWsijBHjQ?e=f8WMCy">Vision-base control</a>
+</ul>  
+<b>หมายเหตุ :</b> วีดีโอนี้จากการสอนในชั้นเรียนปี 2563 หมายเลข lecture จะไม่ตรงกับปีนี้ แต่เนื้อหาเหมือนกัน 
+  
+  
+  
 <hr>
 
 ### ลิงก์ที่เกี่ยวข้อง
