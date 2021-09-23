@@ -123,7 +123,18 @@ Videos from youtube
   <li /><a href="https://o365ku-my.sharepoint.com/:v:/g/personal/varodom_t_live_ku_th/EYnTfaPmXftNtrmYN9TbQ-sBOKrkq1DedB0HsZWFzQLLgQ?e=K4pOFP">Thu Sep 16, 21</a>
 </ul>
 
+#### Lecture 6 : midterm wrap up and exam preparation
 
+##### Midterm exam examples
+<ul>
+  <li /><a href="https://github.com/dewdotninja/exams/blob/main/midterm01211433_IUP_2021_example.ipynb">Jupyter notebook</a>
+  <li /><a href="https://dewdotninja.github.io/ku/courses/exams/midterm01211433_IUP_2021_example.html">Pluto notebook</a>
+</ul>
+
+##### Videos
+
+##### Midterm
+<b>Date :</b> Sat Oct 2, 2021 <b>Time :</b> 4 - 7 PM
 
 
 <hr>
