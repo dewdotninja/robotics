@@ -132,6 +132,11 @@ Videos from youtube
 </ul>
 
 ##### Videos
+<ul>
+  <li /><a href="https://o365ku-my.sharepoint.com/:v:/g/personal/varodom_t_live_ku_th/Eb91TzGhFdROmFleJck2ScwBKZJHPDp5fPMw_5hIUlzTEw?e=luYmPI">Part 1</a>
+  <li /><a href="https://o365ku-my.sharepoint.com/:v:/g/personal/varodom_t_live_ku_th/EUVMbLaAk5NBuNESClNk1HABrAnwWU9dND2-kF-Li-OV1Q?e=ErUEi1">Part 2</a>
+</ul>  
+
 
 ##### Midterm
 <b>Date :</b> Sat Oct 2, 2021 <b>Time :</b> 4 - 7 PM
