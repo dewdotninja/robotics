@@ -260,7 +260,7 @@
 
 #### Pluto notebook
 <ul>
-  <li />< a href="https://dewdotninja.github.io/books_th/julia4eng/chapter4.html">การประมวลผลภาพ</a>
+  <li /><a href="https://dewdotninja.github.io/books_th/julia4eng/chapter4.html">การประมวลผลภาพ</a>
 </ul>
   
 <hr>
