@@ -262,7 +262,17 @@
 <ul>
   <li /><a href="https://dewdotninja.github.io/books_th/julia4eng/chapter4.html">การประมวลผลภาพ</a>
 </ul>
-  
+
+#### วีดีโอ
+<ul>
+  <li /><a href="https://o365ku-my.sharepoint.com/:v:/g/personal/varodom_t_live_ku_th/ETIlYO33fbRBlKLzWiv8VREBnH0BFeZnbO4d4tEhnygR7Q?e=bmDa7N">สมุดบันทึก Pluto บทที่ 4 : การประมวลผลภาพ</a>
+</ul>
+
+#### วีดีโอเสริม
+<ul>
+  <li /><a href="https://www.youtube.com/watch?v=8rrHTtUzyZA">Convolution in image processing</a> Grant Sanderson
+</ul>
+
 <hr>
 
 ### ลิงก์ที่เกี่ยวข้อง
