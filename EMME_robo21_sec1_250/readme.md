@@ -273,6 +273,22 @@
   <li /><a href="https://www.youtube.com/watch?v=8rrHTtUzyZA">Convolution in image processing</a> Grant Sanderson
 </ul>
 
+### Lecture 13: การเรียนรู้เชิงลึก
+#### สไลด์
+<ul>
+  <li /><a href="https://drive.google.com/file/d/1cIcTIJJjCx3kSF1RXFZOJSHF2RSKycjM/view?usp=sharing">Introduction to deep learning</a>
+</ul>
+
+#### วีดีโอ
+
+coming Friday Oct 8, 21
+
+#### supplementary
+
+<ul>
+  <li /><a href="http://introtodeeplearning.com/">MIT 6.S191 Introduction to Deep Learning</a> แนะนำให้ดู Lecture 1, Lecture 3
+</ul>
+
 <hr>
 
 ### ลิงก์ที่เกี่ยวข้อง
