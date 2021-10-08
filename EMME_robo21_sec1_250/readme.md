@@ -305,6 +305,7 @@
     <li /><a href="https://github.com/dewdotninja/control_python">control_python</a>
     <li /><a href="https://dewdotninja.github.io/julia/control/julia_control.html">Control Engineering with Julia</a>
     <li /><a href="https://dewdotninja.github.io/books_th/julia4eng/julia4eng.html">หนังสือ "การโปรแกรมจูเลียสำหรับวิศวกร" </a>
-    <li /><a href="https://www.youtube.com/watch?v=RgO8BBNGB8w">การติดตั้ง tensorflow 2. บน Windows 10 </a>(Jeff Heaton's Video from youtube)
+
   </ul>
+ <li /><a href="https://www.youtube.com/watch?v=RgO8BBNGB8w">การติดตั้ง tensorflow 2. บน Windows 10 </a>(Jeff Heaton's Video from youtube)
 </ul>
