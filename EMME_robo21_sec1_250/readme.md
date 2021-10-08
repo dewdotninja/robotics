@@ -281,12 +281,15 @@
 
 #### วีดีโอ
 
-coming Friday Oct 8, 21
+<ul>
+  <li /><a href="https://o365ku-my.sharepoint.com/:v:/g/personal/varodom_t_live_ku_th/EWavZXnyX5dEjqo9TTA2TgoBgmoyE2FAa-Y92KcUAzvd3Q?e=IrmNWm">Introduction to deep learning</a>
+</ul>
 
-#### supplementary
+#### สื่อเสริมเนื้อหา
 
 <ul>
   <li /><a href="http://introtodeeplearning.com/">MIT 6.S191 Introduction to Deep Learning</a> แนะนำให้ดู Lecture 1, Lecture 3
+  <li /><a href="https://github.com/dewdotninja/books/blob/main/th/anndl/chapter1.ipynb">บทที่ 1 </a>ของหนังสือ "โครงข่ายประสาทเทียมและการเรีียนรู้เชิงลึก"
 </ul>
 
 <hr>
@@ -301,6 +304,7 @@ coming Friday Oct 8, 21
   <ul>
     <li /><a href="https://github.com/dewdotninja/control_python">control_python</a>
     <li /><a href="https://dewdotninja.github.io/julia/control/julia_control.html">Control Engineering with Julia</a>
-    <li /><a href="https://dewdotninja.github.io/books_th/julia4eng/julia.html">หนังสือ "การโปรแกรมจูเลียสำหรับวิศวกร" (ระหว่างจัดทำ) </a>
+    <li /><a href="https://dewdotninja.github.io/books_th/julia4eng/julia4eng.html">หนังสือ "การโปรแกรมจูเลียสำหรับวิศวกร" </a>
+    <li /><a href="https://www.youtube.com/watch?v=RgO8BBNGB8w">การติดตั้ง tensorflow 2. บน Windows 10 </a>(Jeff Heaton's Video from youtube)
   </ul>
 </ul>
