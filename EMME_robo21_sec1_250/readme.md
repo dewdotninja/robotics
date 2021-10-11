@@ -292,6 +292,23 @@
   <li /><a href="https://github.com/dewdotninja/books/blob/main/th/anndl/chapter1.ipynb">บทที่ 1 </a>ของหนังสือ "โครงข่ายประสาทเทียมและการเรีียนรู้เชิงลึก"
 </ul>
 
+### Lecture 14: การเรียนรู้เสริมกำลัง (reinforcement learning) (self-study)
+
+เนื้อหาส่วนนี้เป็นส่วนสุดท้ายของวิชา ซึ่งเป็นการมอบหมายงานให้ศึกษาด้วยตัวเองจากวีดีโอและสื่อออนไลน์ โดยได้รวบรวมลิงก์ที่เกี่ยวข้องไว้ด้านล่างนี้
+
+#### Videos
+<ul>
+  <li /><a href="https://youtu.be/93M1l_nrhpQ">MIT 6.S191 Reinforcement learning </a>
+  <li /><a href="https://youtu.be/2pWv7GOvuf0">RL Course by David Silver - Lecture 1: Introduction to Reinforcement Learning</a>
+  <li />ค้นหาคำว่า reinforcement learning ใน youtube และเลือกศึกษาคลิปที่น่าสนใจ เช่นจาก MIT, Stanford, UC Berkeley
+</ul>
+
+#### Slides
+<ul>
+  <li /><a href="https://introtodeeplearning.com/slides/6S191_MIT_DeepLearning_L5.pdf">MIT 6.S191 Reinforcement learning</a>
+ </ul> 
+
+
 <hr>
 
 ### ลิงก์ที่เกี่ยวข้อง
