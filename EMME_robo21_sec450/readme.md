@@ -140,6 +140,18 @@ Videos from youtube
 
 ##### Midterm
 <b>Date :</b> Sat Oct 2, 2021 <b>Time :</b> 4 - 7 PM
+<ul>
+  <li /><a href="https://github.com/dewdotninja/exams/blob/main/midterm01211433_IUP_2021.ipynb">Jupyter notebook</a>
+  <li /><a href="https://dewdotninja.github.io/ku/courses/exams/midterm01211433_IUP_2021_jl.html">Pluto notebook</a>
+</ul>
+
+#### Lecture 7 : Discrete-time Systems
+
+##### Slides and notebook
+<ul>
+  <li /><a href="https://drive.google.com/file/d/1SOJrLiOcJ6iHX1TyUPKDeemYcNAvBv06/view">Controller implementation</a>
+  <li /><a href="https://dewdotninja.github.io/julia/control/ceb_m6.html">Module 6: Discrete-time Control Systems</a>
+</ul>
 
 
 <hr>
