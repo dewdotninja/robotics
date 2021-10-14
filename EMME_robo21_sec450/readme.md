@@ -150,7 +150,11 @@ Videos from youtube
 ##### Slides and notebook
 <ul>
   <li /><a href="https://drive.google.com/file/d/1SOJrLiOcJ6iHX1TyUPKDeemYcNAvBv06/view">Controller implementation</a>
-  <li /><a href="https://dewdotninja.github.io/julia/control/ceb_m6.html">Module 6: Discrete-time Control Systems</a>
+  <li />Module 6: Discrete-time Control Systems
+  <ul>
+    <li /><a href="https://github.com/dewdotninja/control_python/blob/main/ceb_m6.ipynb">Python</a>
+    <li /><a href="https://dewdotninja.github.io/julia/control/ceb_m6.html">Julia</a>
+  </ul>
 </ul>
 
 
