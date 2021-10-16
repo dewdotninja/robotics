@@ -145,6 +145,12 @@ Videos from youtube
   <li /><a href="https://dewdotninja.github.io/ku/courses/exams/midterm01211433_IUP_2021_jl.html">Pluto notebook</a>
 </ul>
 
+##### Midterm Solutions
+<ul>
+  <li /><a href="https://github.com/dewdotninja/exams/blob/main/midterm01211433_IUP_2021_soln.ipynb">Jupyter notebook</a>
+  <li /><a href="https://dewdotninja.github.io/ku/courses/exams/midterm01211433_IUP_2021_soln_jl.html">Pluto notebook</a>
+</ul>
+
 #### Lecture 7 : Discrete-time Systems
 
 ##### Slides and notebook
