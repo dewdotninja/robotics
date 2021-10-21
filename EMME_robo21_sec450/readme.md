@@ -168,6 +168,18 @@ Videos from youtube
   <li /><a href="https://o365ku-my.sharepoint.com/:v:/g/personal/varodom_t_live_ku_th/EWumViI34XREsnPu1SC8vF8B1mr2mnIVIVByYlaHU_SqOA?e=G8vnrR">Thu Oct 14, 21 </a>
 </ul>
 
+#### Lecture 8 : Discretization
+
+##### Notebook
+<ul>
+ <li />Module 7: Continuous to Discrete Conversion Methods
+  <ul>
+    <li /><a href="https://github.com/dewdotninja/control_python/blob/main/ceb_m7.ipynb">Python</a>
+    <li /><a href="https://dewdotninja.github.io/julia/control/ceb_m7.html">Julia</a>
+  </ul>  
+</ul>
+  
+  
 <hr>
 
 
