@@ -211,8 +211,8 @@
 #### Notebooks
 
 <ul>
-  
-  <li /><a href="https://dewdotninja.github.io/julia/control/lsid.html">Least Square System Identification</a>
+  <li /><a href="https://github.com/dewdotninja/control_python/blob/main/lsid.ipynb">Least Square System Identification (Jupyter)</a>
+  <li /><a href="https://dewdotninja.github.io/julia/control/lsid.html">Least Square System Identification (Pluto)</a>
   
 </ul>
 
