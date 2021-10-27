@@ -189,6 +189,9 @@ Videos from youtube
 #### Lecture 9 : System Identification of Robot-joint Model
 
 ##### Slides
+
+<b>Note :</b> the first page should be marked as Lecture 9. 
+
 <ul>
   <li /><a href="https://drive.google.com/file/d/1bmBGUN0JUn42gxxAQdH0fB0xAnvHK-3m/view?usp=sharing">System Identification of Robot-joint Model</a>
 </ul>
