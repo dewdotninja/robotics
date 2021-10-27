@@ -186,7 +186,26 @@ Videos from youtube
    PID controller on an embedded system. You can neglect the IoT part.
 <hr>
 
+### Lecture 9 : System Identification of Robot-joint Model
 
+#### Slides
+<ul>
+  <li /><a href="https://drive.google.com/file/d/1bmBGUN0JUn42gxxAQdH0fB0xAnvHK-3m/view?usp=sharing">System Identification of Robot-joint Model</a>
+</ul>
+
+#### Videos
+<ul>
+  <li />Thu Oct 28, 21
+  </ul>
+
+  
+#### Notebooks
+
+<ul>
+  <li /><a href="https://github.com/dewdotninja/control_python/blob/main/lsid.ipynb">Least Square System Identification (Jupyter)</a>
+  <li /><a href="https://dewdotninja.github.io/julia/control/lsid.html">Least Square System Identification (Pluto)</a>
+  
+</ul>
 
 ### Useful links
 <ul>
