@@ -184,7 +184,7 @@ Videos from youtube
   <li /><a href="https://o365ku-my.sharepoint.com/:v:/g/personal/varodom_t_live_ku_th/EcaWbHxM3a1Ilp5conF5nP0B_O9qoMh0ZRXL7-WzoG1d4A?e=nrshUw">Thu Oct 21, 21</a>
   <li /><a href="https://youtu.be/RFvvzNPsUYE">PID-IoT on ESP32 using micropython and NETPIE 2020</a>. This is an example on how to implement a
    PID controller on an embedded system. You can neglect the IoT part.
-<hr>
+</ul>
 
 ### Lecture 9 : System Identification of Robot-joint Model
 
@@ -196,7 +196,7 @@ Videos from youtube
 #### Videos
 <ul>
   <li />Thu Oct 28, 21
-  </ul>
+</ul>
 
   
 #### Notebooks
@@ -207,6 +207,8 @@ Videos from youtube
   
 </ul>
 
+<hr>
+  
 ### Useful links
 <ul>
   <li /><a href="https://www.scilab.org/">Scilab website</a>
