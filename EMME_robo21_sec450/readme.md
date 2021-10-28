@@ -151,7 +151,7 @@ Videos from youtube
   <li /><a href="https://dewdotninja.github.io/ku/courses/exams/midterm01211433_IUP_2021_soln_jl.html">Pluto notebook</a>
 </ul>
 
-#### Lecture 7 : Discrete-time Systems
+#### Lecture 7 (Part I) : Discrete-time Systems
 
 ##### Slides and notebook
 <ul>
@@ -168,7 +168,7 @@ Videos from youtube
   <li /><a href="https://o365ku-my.sharepoint.com/:v:/g/personal/varodom_t_live_ku_th/EWumViI34XREsnPu1SC8vF8B1mr2mnIVIVByYlaHU_SqOA?e=G8vnrR">Thu Oct 14, 21 </a>
 </ul>
 
-#### Lecture 8 : Discretization
+#### Lecture 7 (Part II) : Discretization
 
 ##### Notebook
 <ul>
@@ -186,11 +186,9 @@ Videos from youtube
    PID controller on an embedded system. You can neglect the IoT part.
 </ul>
 
-#### Lecture 9 : System Identification of Robot-joint Model
+#### Lecture 8 : System Identification of Robot-joint Model
 
 ##### Slides
-
-<b>Note :</b> the first page should be marked as Lecture 9. 
 
 <ul>
   <li /><a href="https://drive.google.com/file/d/1bmBGUN0JUn42gxxAQdH0fB0xAnvHK-3m/view?usp=sharing">System Identification of Robot-joint Model</a>
@@ -198,7 +196,7 @@ Videos from youtube
 
 ##### Videos
 <ul>
-  <li />Thu Oct 28, 21
+  <li />Thu Oct 28, 21 
 </ul>
 
   
