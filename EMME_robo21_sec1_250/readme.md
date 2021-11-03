@@ -312,7 +312,14 @@
 
 #### สอบปลายภาค (30%)
 
-สอบแบบออนไลน์รูปแบบเดียวกับมิดเทอม วันอังคารที่ 2 พย. 2564 : 1 - 4 PM 
+สอบแบบออนไลน์รูปแบบเดียวกับมิดเทอม วันอังคารที่ 2 พย. 2564 : 1 - 6 PM 
+
+##### ข้อสอบ
+<ul>
+  <li /><a href="https://github.com/dewdotninja/exams/blob/main/final01211433_21.ipynb">Jupyter notebook</a>
+  <li /><a href="https://dewdotninja.github.io/ku/courses/exams/final01211433_21.html">Pluto notebook</a>
+</ul>
+
 <hr>
 
 ### ลิงก์ที่เกี่ยวข้อง
