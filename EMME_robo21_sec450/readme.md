@@ -208,6 +208,16 @@ Videos from youtube
   
 </ul>
 
+### Lecture 9 : Robot Dynamics
+
+#### Slides
+<ul>
+  <li /><a href="https://drive.google.com/file/d/1fpDUQAp8HflV3S4Ir18P2wTrztO3Hz0P/view?usp=sharing">Robot Dynamics</a>
+</ul>
+
+#### Video
+
+
 <hr>
   
 ### Useful links
