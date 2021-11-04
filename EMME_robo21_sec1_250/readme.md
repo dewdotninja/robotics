@@ -314,11 +314,16 @@
 
 สอบแบบออนไลน์รูปแบบเดียวกับมิดเทอม วันอังคารที่ 2 พย. 2564 : 1 - 6 PM 
 
-##### ข้อสอบ
+##### ข้อสอบปลายภาค
 <ul>
   <li /><a href="https://github.com/dewdotninja/exams/blob/main/final01211433_21.ipynb">Jupyter notebook</a>
   <li /><a href="https://dewdotninja.github.io/ku/courses/exams/final01211433_21.html">Pluto notebook</a>
 </ul>
+
+##### เฉลยข้อสอบปลายภาค
+<ul>
+  <li /><a href="https://github.com/dewdotninja/exams/blob/main/final01211433_21_solution.ipynb">Jupyter notebook</a>
+  <li /><a href="https://dewdotninja.github.io/ku/courses/exams/final01211433_21_solution.html">Pluto notebook</a>
 
 <hr>
 
