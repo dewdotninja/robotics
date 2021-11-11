@@ -228,7 +228,9 @@ Videos from youtube
 </ul>  
 
 #### Video
-  
+<ul>
+  <li /><a href="https://o365ku-my.sharepoint.com/:v:/g/personal/varodom_t_live_ku_th/EX-VLXpBQQpBiVfdC_ak6ocBKCsqTW6YLgc3J9JiclrouQ?e=rgaK9G">Part I : Thu Nov 11, 21 </a>
+</ul>
 <hr>
   
 ### Useful links
