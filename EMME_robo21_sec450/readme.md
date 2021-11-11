@@ -220,6 +220,15 @@ Videos from youtube
   <li /><a href="https://o365ku-my.sharepoint.com/:v:/g/personal/varodom_t_live_ku_th/EWJqm2orgIROrpkVa3gnqLEBGtz45vbGyqbH0D9ISowHiA?e=qbouDX">Thu Nov 4, 21</a>
 </ul>
 
+### Lecture 10 : Robot nonlinear control 
+
+#### Slides
+<ul>
+  <li /><a href="https://drive.google.com/file/d/15YcW7h0Jik7SRVPW7wlSFQVJaA9Ft9yP/view?usp=sharing">Robot conlinear control</a>
+</ul>  
+
+#### Video
+  
 <hr>
   
 ### Useful links
