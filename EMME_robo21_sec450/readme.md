@@ -220,7 +220,7 @@ Videos from youtube
   <li /><a href="https://o365ku-my.sharepoint.com/:v:/g/personal/varodom_t_live_ku_th/EWJqm2orgIROrpkVa3gnqLEBGtz45vbGyqbH0D9ISowHiA?e=qbouDX">Thu Nov 4, 21</a>
 </ul>
 
-### Lecture 10 : Robot nonlinear control 
+### Lecture 10 - 11 : Robot nonlinear control 
 
 #### Slides
 <ul>
@@ -230,6 +230,7 @@ Videos from youtube
 #### Video
 <ul>
   <li /><a href="https://o365ku-my.sharepoint.com/:v:/g/personal/varodom_t_live_ku_th/EX-VLXpBQQpBiVfdC_ak6ocBKCsqTW6YLgc3J9JiclrouQ?e=rgaK9G">Part I : Thu Nov 11, 21 </a>
+  <li /><a href="https://o365ku-my.sharepoint.com/:v:/g/personal/varodom_t_live_ku_th/EYOrbU_3MadCrGnJYKzKokcBmWvUVd3tJKBaksE53xElIw?e=pZIlel">Part II : Thu Nov 18, 21</a>
 </ul>
 <hr>
   
