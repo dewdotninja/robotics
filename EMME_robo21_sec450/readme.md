@@ -232,6 +232,33 @@ Videos from youtube
   <li /><a href="https://o365ku-my.sharepoint.com/:v:/g/personal/varodom_t_live_ku_th/EX-VLXpBQQpBiVfdC_ak6ocBKCsqTW6YLgc3J9JiclrouQ?e=rgaK9G">Part I : Thu Nov 11, 21 </a>
   <li /><a href="https://o365ku-my.sharepoint.com/:v:/g/personal/varodom_t_live_ku_th/EYOrbU_3MadCrGnJYKzKokcBmWvUVd3tJKBaksE53xElIw?e=pZIlel">Part II : Thu Nov 18, 21</a>
 </ul>
+
+### Lecture 12 : Vision-based control 
+
+#### Slides
+<ul>
+  <li /><a href="https://drive.google.com/file/d/1m_dSEiQu6COjhyn-CDzp_ruHzAMQhQPD/view?usp=sharing">vision-based control</a>
+</ul>  
+
+#### Video
+
+### Lecture 13 : Introduction to deep-learning
+
+#### Slides
+<ul>
+  <li /><a href="https://drive.google.com/file/d/1M04p2_WpTrbW7Puk6LlPpLXiBnu27I7V/view?usp=sharing">introduction to deep learning</a>
+</ul>  
+
+#### Video
+
+#### Supplement
+<ul>
+  <li /><a href="https://www.youtube.com/watch?v=5tvmMX8r_OM">MIT 6.S191 (2021) : Introduction to Deep Learning </a>
+  <li /><a href="https://www.youtube.com/watch?v=AjtX1N_VT9E">MIT 6.S191 (2021) : Convolutional Neural Networks</a>
+  
+</ul>
+
+
 <hr>
   
 ### Useful links
