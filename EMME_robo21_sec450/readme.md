@@ -241,6 +241,9 @@ Videos from youtube
 </ul>  
 
 #### Video
+<ul>
+  <li /><a href="https://o365ku-my.sharepoint.com/:v:/g/personal/varodom_t_live_ku_th/EQFcXGi3iH5Hg6Sl_Vz9cxkBeI076S4Zhx9RmDBE3dKR6A?e=9LO39r">Last year's video clip. </a> Please correct that the lecture number for this year is 12, not 8.
+</ul>
 
 ### Lecture 13 : Introduction to deep-learning
 
@@ -250,6 +253,7 @@ Videos from youtube
 </ul>  
 
 #### Video
+
 
 #### Supplement
 <ul>
