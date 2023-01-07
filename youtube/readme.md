@@ -2,7 +2,7 @@
 
 <ul>
   <li /><b>Lecture 1 :</b> <a href="https://youtu.be/4UU85q4Ztgg">Course outline. Software tools and basic programming.</a>
-  <li /><b>Lecture 2 :</b> Command generation
+  <li /><b>Lecture 2 :</b> <a href="https://youtu.be/n88204--hZA">Command generation</a>
   <li /><b>Lecture 3 :</b> Independent joint dynamics and control
   <li /><b>Lecture 4 :</b> Classical control design
   <li /><b>Lecture 5 :</b> PID controllers
