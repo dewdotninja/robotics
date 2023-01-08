@@ -5,7 +5,7 @@
 <hr>
 
 <ul>
-<li />Syllabus (Semester 1, academic year 2021)
+<li /><a href="Syllabus_01211433.pdf">Syllabus</a> (Semester 1, academic year 2021)
 </ul>
 
 <ul>
