@@ -1,5 +1,7 @@
 ## วีดีโอของคอร์ส 01211433 บน youtube (ภาษาไทย)
 
+<img src="https://drive.google.com/uc?id=1u1uAOkHMlUgrtC1bA23g9APsVt8W8gtp" width=550 alt="adaptive_robot"/>
+
 <ul>
   <li /><b>Lecture 1 :</b> <a href="https://youtu.be/4UU85q4Ztgg">Course outline. Software tools and basic programming.</a>
   <li /><b>Lecture 2 :</b> <a href="https://youtu.be/n88204--hZA">Command generation</a>
