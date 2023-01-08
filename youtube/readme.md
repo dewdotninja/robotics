@@ -1,6 +1,12 @@
 ## วีดีโอของคอร์ส 01211433 บน youtube (ภาษาไทย)
 
-<img src="https://drive.google.com/uc?id=1u1uAOkHMlUgrtC1bA23g9APsVt8W8gtp" width=550 alt="adaptive_robot"/>
+<img src="https://drive.google.com/uc?id=1u1uAOkHMlUgrtC1bA23g9APsVt8W8gtp" width=650 alt="adaptive_robot"/>
+
+<hr>
+
+<ul>
+<li />Syllabus (Semester 1, academic year 2021)
+</ul>
 
 <ul>
   <li /><b>Lecture 1 :</b> <a href="https://youtu.be/4UU85q4Ztgg">Course outline. Software tools and basic programming.</a>
@@ -23,5 +29,14 @@
 
 <ul>
   <li /><b>Lecture 2 :</b> <a href="lect02.pdf">Robot trajectory generation</a>
+  <li /><b>Lecture 3 :</b> <a href="lect03.pdf">Independent joint dynamics & feedback control basics</a>
+  <li /><b>Lecture 4 :</b> <a href="lect04.pdf">Classical control design</a>
+  <li /><b>Lecture 5 :</b> <a href="lect05.pdf">PID controllers</a>
+  <li /><b>Lecture 6 :</b> <a href="lect06.pdf">State feedback and PID with feedforward</a>
+  <li /><b>Lecture 7 :</b> <a href="lect07.pdf">Controller implementation</a>
+  <li /><b>Lecture 8 :</b> <a href="lect08.pdf">System identification of robot-joint model</a>
+  <li /><b>Lecture 9 :</b> <a href="lect09.pdf">Robot dynamics</a>
+  <li /><b>Lecture 10 :</b> <a href="lect10.pdf">Robot nonlinear control</a>
+  <li /><b>Lecture 11 :</b> <a href="lect11.pdf">Vision-based control</a>
   
 </ul>
