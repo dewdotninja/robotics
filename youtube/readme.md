@@ -13,7 +13,7 @@
   <li /><b>Lecture 2 :</b> <a href="https://youtu.be/n88204--hZA">Command generation</a>
   <li /><b>Lecture 3 :</b> <a href="https://youtu.be/VR_mYVCdRBk">Independent joint dynamics and control</a>
   <li /><b>Lecture 4 :</b> <a href="https://youtu.be/RVQ64XGuB9A">Classical control design</a>
-  <li /><b>Lecture 5 :</b> PID controllers
+  <li /><b>Lecture 5 :</b> <a href="https://youtu.be/I0Id8x92q6k">PID controllers</a>
   <li /><b>Lecture 6 :</b> State feedback and PID with feedforward control
   <li /><b>Lecture 7 :</b> Discrete-time controller implementation
   <li /><b>Lecture 8 :</b> Least-square system identification
