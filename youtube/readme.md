@@ -1,4 +1,4 @@
-## วีดีโอของคอร์ส 01211433 บน youtube (ภาษาไทย)
+## วีดีโอของคอร์ส 01211433 Vision and Control of Industrial Robots บน youtube (ภาษาไทย)
 
 <img src="https://drive.google.com/uc?id=1u1uAOkHMlUgrtC1bA23g9APsVt8W8gtp" width=650 alt="adaptive_robot"/>
 
