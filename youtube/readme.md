@@ -15,7 +15,7 @@
   <li /><b>Lecture 4 :</b> <a href="https://youtu.be/RVQ64XGuB9A">Classical control design</a>
   <li /><b>Lecture 5 :</b> <a href="https://youtu.be/I0Id8x92q6k">PID controllers</a>
   <li /><b>Lecture 6 :</b> <a href="https://youtu.be/B3z7d0Mmrso">State feedback and PID with feedforward control</a>
-  <li /><b>Lecture 7 :</b> Discrete-time controller implementation
+  <li /><b>Lecture 7 :</b> <a href="https://youtu.be/pDqSyUf9DM4">Discrete-time controller implementation</a>
   <li /><b>Lecture 8 :</b> Least-square system identification
   <li /><b>Lecture 9 :</b> Robot dynamics
   <li /><b>Lecture 10 :</b> Nonlinear multivariable control
