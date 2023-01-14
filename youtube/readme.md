@@ -17,7 +17,7 @@
   <li /><b>Lecture 6 :</b> <a href="https://youtu.be/B3z7d0Mmrso">State feedback and PID with feedforward control</a>
   <li /><b>Lecture 7 :</b> <a href="https://youtu.be/pDqSyUf9DM4">Discrete-time controller implementation</a>
   <li /><b>Lecture 8 :</b> <a href="https://youtu.be/fvYRU2-FYH4">Least-square system identification</a>
-  <li /><b>Lecture 9 :</b> Robot dynamics
+  <li /><b>Lecture 9 :</b> <a href="https://youtu.be/6fy0mibQE9k">Robot dynamics</a>
   <li /><b>Lecture 10 :</b> Nonlinear multivariable control
   <li /><b>Lecture 11 :</b> Vision-based control
   <li /><b>Lecture 12 :</b> Image processing basics
