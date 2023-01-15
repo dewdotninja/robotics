@@ -38,7 +38,7 @@
   <li /><b>Lecture 9 :</b> <a href="lect09.pdf">Robot dynamics</a>
   <li /><b>Lecture 10 :</b> <a href="lect10.pdf">Robot nonlinear control</a>
   <li /><b>Lecture 11 :</b> <a href="lect11.pdf">Vision-based control</a>
-  <li /><b>Lecture 12 :</b> <a href="https://dewdotninja.github.io/books_th/julia4eng/chapter4.html">Chapter 4 Image processing (Pluto notebook</a>
+  <li /><b>Lecture 12 :</b> <a href="https://dewdotninja.github.io/books_th/julia4eng/chapter4.html">Chapter 4 Image processing (Pluto notebook)</a>
   <li /><b>Lecture 13 :</b>
   <li /><b>Lecture 14 :</b>
   
