@@ -20,7 +20,7 @@
   <li /><b>Lecture 9 :</b> <a href="https://youtu.be/6fy0mibQE9k">Robot dynamics</a>
   <li /><b>Lecture 10 :</b> <a href="https://youtu.be/H7ITlELYF7A">Nonlinear multivariable control</a>
   <li /><b>Lecture 11 :</b> <a href="https://youtu.be/Zv9h91HLfSk">Vision-based control</a>
-  <li /><b>Lecture 12 :</b> Image processing basics
+  <li /><b>Lecture 12 :</b> <a href="https://youtu.be/AXspp_4kPZk">Image processing basics</a>
   <li /><b>Lecture 13 :</b> Introduction to deep learning
   <li /><b>Lecture 14 :</b> Convolutional neural networks (CNN)
 </ul>
